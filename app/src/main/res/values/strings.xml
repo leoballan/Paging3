@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Paging 3  test</string>
+    <string name="button_item_load_state">Retry</string>
+</resources>
